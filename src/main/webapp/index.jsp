@@ -67,7 +67,7 @@ Do you want to buy a Automatic washing machine in the price range up to Rs15,000
 	</div >
 
 	<div class="container">
-		<footer> Copyright &copy; ekart Pvt. Ltd. </footer>
+		<footer> Copyright &copy; ekart pvt. ltd. </footer>
 	</div>
 
 </body>
