@@ -5,7 +5,7 @@
 	<groupId>com.ekart</groupId>
 	<artifactId>ekart</artifactId>
 	<packaging>war</packaging>
-	<version>1.1-RELEASE</version>
+	<version>1.0-RELEASE</version>
 
 	<dependencies>
 		<dependency>
