@@ -1,7 +1,7 @@
 pipeline {
     agent any
     triggers {
-        cron('H/1 * * * 1-5')
+        pollSCM('H/5 * * * 1-5')
     }
     tools {
         maven 'Maven3'
